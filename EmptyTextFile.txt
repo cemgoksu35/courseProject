@@ -1,0 +1,5 @@
+﻿Öğrenci Adı :
+Öğrenci Soyadı :
+Numarası :
+Vize Not :
+Final Not : 
